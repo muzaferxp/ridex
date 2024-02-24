@@ -1410,3 +1410,15 @@ body {
   .offer .container { gap: 120px; }
 
 }
+
+
+
+.collection-card:hover .card-title {
+  color: red; /* Change to your desired color */
+}
+
+.collection-card:hover .card-text {
+  background-color:#DC4C64; /* Change to your desired color */
+  padding: 10px;
+  cursor: pointer;
+}
