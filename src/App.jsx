@@ -768,9 +768,6 @@ function App() {
 
 
 
-
-
-
       <footer className="footer" data-section>
         <div className="container">
           <div className="footer-top">
